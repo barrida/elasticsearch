@@ -1,4 +1,4 @@
-# elasticsearch
+# Elasticsearch Java Client 
 Java implementation with Java High Level REST Client.
 
 # Run Java application
