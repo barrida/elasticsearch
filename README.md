@@ -15,7 +15,9 @@ Java implementation with Java High Level REST Client.
 GET /company/product/_search/
 ```
 
-Using query DSL for more usefull search in order to make a more useful search request. We also need to supply a request body with a query.
+**Using query DSL for more usefull search**
+
+In order to make a more useful search request, we also need to supply a request body with a query.
 
 ```
 POST /company/product/_search/
