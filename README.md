@@ -1,4 +1,4 @@
-# Elasticsearch C# application
+# Elasticsearch .NET Client
 .NET client using (NEST API) for simple full text search with sample queries. Java client (Java High Level REST Client) is in "java" branch.
 
 # Run the .NET application
