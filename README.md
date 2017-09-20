@@ -1,5 +1,5 @@
 # Elasticsearch application
-.NET application for simple full text search with sample queries. Java project will be added soon.
+.NET client using (NEST API) for simple full text search with sample queries. Java client (Java High Level REST Client) is in "java" branch.
 
 # Run the .NET application
 1. Download Elasticsearch and follow instructions from https://www.elastic.co/downloads/elasticsearch in order to run bin\elasticsearch.bat on Windows.
